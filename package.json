@@ -1,5 +1,6 @@
 {
   "name": "concepts",
+  "description": "A small project for testing various functionalities and concepts. This repo serves as a sandbox for experimenting with different features, libraries, and coding techniques. It is not a large-scale application, but a space for learning, prototyping, and validating new ideas.",
   "version": "0.1.0",
   "private": true,
   "scripts": {
